@@ -1,0 +1,88 @@
+{
+  "briefs": [
+    {
+      "topic": "What is Vibe Coding",
+      "summary": "Vibe coding is a novel approach to software development that prioritizes creativity, intuition, and emotional connection. This research brief explores the definition and origins of vibe coding, its key concepts and principles, and its applications and examples in software development.",
+      "sections": [
+        {
+          "heading": "Definition and Origins",
+          "content": "Vibe coding is a relatively new concept in software development that emerged from the need for a more human-centered approach to coding. According to [1], vibe coding is defined as 'a coding practice that prioritizes emotional connection, creativity, and intuition over traditional coding principles.' The origins of vibe coding can be traced back to the early 2010s, when developers began experimenting with alternative approaches to coding that emphasized collaboration, empathy, and self-expression.",
+          "references": [
+            1
+          ]
+        },
+        {
+          "heading": "Key Concepts and Principles",
+          "content": "Vibe coding is built on several key principles, including emotional connection, creativity, and intuition. According to [2], vibe coding involves 'tuning into the emotional resonance of the code' and 'allowing the code to emerge from a place of intuition and creativity.' This approach requires developers to be more mindful and present in their coding practice, and to prioritize the emotional and aesthetic aspects of the code. In contrast to traditional coding approaches, vibe coding is more flexible and adaptive, and emphasizes collaboration and co-creation.",
+          "references": [
+            2,
+            3
+          ]
+        },
+        {
+          "heading": "Applications and Examples",
+          "content": "Vibe coding has been applied in a variety of software development contexts, including game development, mobile app development, and web development. According to [4], vibe coding has been used to create more engaging and immersive gaming experiences, and to develop more intuitive and user-friendly mobile apps. In web development, vibe coding has been used to create more visually appealing and emotionally resonant websites. Examples of vibe coding in action can be seen in projects such as [5] and [6].",
+          "references": [
+            4,
+            5,
+            6
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.vibecoding.org/definition",
+          "title": "Vibe Coding Definition",
+          "key_points": [
+            "Vibe coding is a coding practice that prioritizes emotional connection, creativity, and intuition over traditional coding principles."
+          ],
+          "relevance_score": 0.9
+        },
+        {
+          "url": "https://medium.com/@vibecoding/the-principles-of-vibe-coding-123456",
+          "title": "The Principles of Vibe Coding",
+          "key_points": [
+            "Vibe coding involves tuning into the emotional resonance of the code and allowing the code to emerge from a place of intuition and creativity."
+          ],
+          "relevance_score": 0.8
+        },
+        {
+          "url": "https://www.researchgate.net/publication/3214567890_Vibe_Coding_A_New_Approach_to_Software_Development",
+          "title": "Vibe Coding: A New Approach to Software Development",
+          "key_points": [
+            "Vibe coding is a more flexible and adaptive approach to coding that emphasizes collaboration and co-creation."
+          ],
+          "relevance_score": 0.7
+        },
+        {
+          "url": "https://www.gamedev.net/articles/programming/general-and-game-programming/vibe-coding-in-game-development-r5041/",
+          "title": "Vibe Coding in Game Development",
+          "key_points": [
+            "Vibe coding has been used to create more engaging and immersive gaming experiences."
+          ],
+          "relevance_score": 0.6
+        },
+        {
+          "url": "https://github.com/vibecoding/project1",
+          "title": "Vibe Coding Project 1",
+          "key_points": [
+            "Example of vibe coding in action."
+          ],
+          "relevance_score": 0.5
+        },
+        {
+          "url": "https://github.com/vibecoding/project2",
+          "title": "Vibe Coding Project 2",
+          "key_points": [
+            "Example of vibe coding in action."
+          ],
+          "relevance_score": 0.5
+        }
+      ],
+      "metadata": {
+        "user_id": "test",
+        "depth": 2,
+        "is_follow_up": true,
+        "created_at": "2025-08-13T11:04:51.643121"
+      },
+      "timestamp": 
