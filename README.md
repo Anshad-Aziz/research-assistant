@@ -22,6 +22,8 @@ This project implements a research assistant system that generates structured, e
 - FastAPI
 - Pydantic
 - Docker
+## Demo Video 
+[Watch the video on Google Drive](https://drive.google.com/drive/folders/1GMmJ14Hmy1hVEhIUJU2Jc0G729sFKxtW?usp=sharing)
 
 ## Installation
 
